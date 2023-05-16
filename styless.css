@@ -344,7 +344,7 @@ span{
         font-size: 7.5rem;
     }
     .home-img img{
-        display: none;
+        
     }
     .about{
         flex-direction: column-reverse;
