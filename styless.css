@@ -382,6 +382,7 @@ span{
 @media(max-width: 365px){
     .header{
         padding: 2rem 11%;
+        margin-right: -15%;
     }
     .home-img img{
         width: 30vh;
@@ -410,6 +411,7 @@ span{
 @media(max-width: 350px){
     .header{
         padding: 2rem 11%;
+        margin-right: -15%;
     }
     .home-content{
         text-align: center;
